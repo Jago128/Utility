@@ -1,4 +1,3 @@
-/* Actualizado a 09/12/2024 por Ekaitz Campo*/
 package utilidades;
 import java.io.BufferedReader;
 import java.io.EOFException;
