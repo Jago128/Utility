@@ -369,7 +369,6 @@ public class Utilidades {
 		return num;
 	}
 
-	//Lee un numero(double) entre el rango dado y lo devuelve
 	public static double leerDouble(double min, double max) {
 		double num = 0;
 		boolean error;
@@ -391,7 +390,6 @@ public class Utilidades {
 		return num;
 	}
 
-	//Muestra el mensaje y luego lee el numero(double) introducido si es entre los valores y lo devuelve
 	public static double leerDouble(String message, double min, double max) { 
 		double num = 0;
 		boolean error;
